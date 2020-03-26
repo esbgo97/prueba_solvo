@@ -16,7 +16,8 @@ const GlobalStyles = StyleSheet.create({
     },
     sectionContainer: {
         flex: 1,
-        alignItems: "center"
+        alignItems: "center",
+        maxWidth:"70%"
     },
     sectionTitle: {
         fontSize: 24,
@@ -43,6 +44,15 @@ const GlobalStyles = StyleSheet.create({
     itemList: {
         height: 50,
         alignSelf: "stretch"
+    },
+    langs: {
+        paddingLeft: 20
+    },
+    inLine: {  alignSelf: "stretch"},
+    smBtn:{
+        width:20,
+        height:5,
+        maxHeight:5
     }
 });
 

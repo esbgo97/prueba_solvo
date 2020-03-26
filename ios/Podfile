@@ -37,6 +37,8 @@ target 'prueba_solvo' do
 
   pod 'RNReanimated', :path => '../node_modules/react-native-reanimated'
 
+  pod 'RNSVG', :path => '../node_modules/react-native-svg'
+
   target 'prueba_solvoTests' do
     inherit! :search_paths
     # Pods for testing
