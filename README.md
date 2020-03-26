@@ -13,7 +13,7 @@ This app shows result of Solvo Company Test
 
 3. Fetch API List
 
-<img src="https://raw.githubusercontent.com/esbgo97/prueba_solvo/master/screenshots/contries_list.png" height="25%" width="25%" />
+<img src="https://raw.githubusercontent.com/esbgo97/prueba_solvo/master/screenshots/countries_list.png" height="25%" width="25%" />
 
 4. Detailed View
 
