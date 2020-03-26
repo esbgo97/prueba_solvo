@@ -23,6 +23,9 @@ This app shows result of Solvo Company Test
 
 <img src="https://raw.githubusercontent.com/esbgo97/prueba_solvo/master/screenshots/search2.png" height="25%" width="25%" />
 
+5. Maps
+
+<img src="https://raw.githubusercontent.com/esbgo97/prueba_solvo/master/screenshots/maps.png" height="25%" width="25%" />
   
-5. Video Demo
+6. Video Demo
 <a href="https://youtu.be/FpSQZjjZsIY">See video Here!</A>
